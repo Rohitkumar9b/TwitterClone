@@ -401,7 +401,7 @@
 
     <profiles>
         <profile>
-            <id>LOCAL-RISHABH</id>
+            <id>LOCAL-RK</id>
             <properties>
                 <DB_URL>jdbc:postgresql://localhost:5432/</DB_URL>
                 <BASE_DIR>FILL BASE DIR</BASE_DIR>
@@ -412,7 +412,7 @@
             </properties>
         </profile>
         <profile>
-            <id>LOCAL-NARENDRA</id>
+            <id>LOCAL-Rohit</id>
             <properties>
                 <DB_URL>jdbc:postgresql://localhost:5432/</DB_URL>
                 <BASE_DIR>E:\New folder\IdeaProjects\helix</BASE_DIR>
